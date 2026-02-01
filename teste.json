@@ -6,6 +6,12 @@
       "data_compra": "2026-01-01",
       "data_expiracao": "2026-01-14"
     },
+     {
+      "nome": "teste",
+      "token": "a9c3e21f-7d4b-4f8a-b2e1-6c9a0d5f3e8b",
+      "data_compra": "2026-01-01",
+      "data_expiracao": "2026-03-14"
+    },
     {
       "nome": "Bruno Oliveira",
       "token": "7134360e-2726-4404-9844-31120f26226c",
