@@ -1,0 +1,16 @@
+{
+  "usuarios": [
+    {
+      "nome": "Ana Souza",
+      "token": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+      "data_compra": "2026-02-01",
+      "data_expiracao": "2026-03-03"
+    },
+    {
+      "nome": "Bruno Oliveira",
+      "token": "7134360e-2726-4404-9844-31120f26226c",
+      "data_compra": "2026-01-15",
+      "data_expiracao": "2026-01-30"
+    }
+  ]
+}
